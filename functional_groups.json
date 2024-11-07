@@ -7,7 +7,16 @@
     "Ester": "C(=O)O[#6]",
 
     "Amine": "[$([NX3H2]),$([NX3H1][#6]),$([NX3]([#6])[#6])]",
+    "Amine Prim": "[NX3;H2][C]",
+    "Amine Sec": "[NX3;H1][C][C]",
+    "Amine Tert": "[NX3;H0][C][C][C]",
+
     "Imine": "C=N",
+    "Prim Aldimine": "[C;H1]=[N;H1]",
+    "Sec Aldimine": "[C;H1]=[N;H0][C]",
+    "Prim Ketimine": "[C;R0]=[N;H1]",
+    "Sec Ketimine": "[C;R0]=[N;H0][C]",
+
     "Nitrile": "C#N",
     "Azide": "[N-]=[N+]=[N]",
 
