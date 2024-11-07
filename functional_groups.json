@@ -1,0 +1,51 @@
+{
+    "Alcohol": "[OX2H]",
+    "Aldehyde": "[CX3H1](=O)[#6]",
+    "Ketone": "[CX3](=O)[#6]",
+    "Ether": "COC",
+    "Carboxyl": "C(=O)O",
+    "Ester": "C(=O)O[#6]",
+
+    "Amine": "[$([NX3H2]),$([NX3H1][#6]),$([NX3]([#6])[#6])]",
+    "Imine": "C=N",
+    "Nitrile": "C#N",
+    "Azide": "[N-]=[N+]=[N]",
+
+    "Amide": "C(=O)N",
+    "Nitro": "[$([NX3](=O)=O)]",
+    "Isocyanate": "N=C=O",
+
+    "Phenyl": "c1ccccc1",
+    "Alkene": "C=C",
+    "Alkyne": "C#C",
+
+    "Halide": "[F,Cl,Br,I]",
+    
+    "Dihydropyrimidine ring": "C1=CNC(=O)NC1",
+
+    "Cyclopropenone": "C1=CC1=O",
+
+    "Furan": "c1ccoc1",
+    "Pyrrole": "c1cc[nH]c1",
+    "Imidazole": "c1cncn1",
+    "Thiophene": "c1ccsc1",
+    "Phosphole": "[P]1=CC=CC1",
+    "Pyrazole": "c1cnnc1",
+    "Oxazole": "c1cocn1",
+    "Isoxazole": "c1cno[nH]1",
+    "Thiazole": "c1cscn1",
+    "Isothiazole": "c1cnsn1",
+    "Triazole": "c1nncn1",
+    "Tetrazole": "c1nnnn1",
+    "Pentazole": "c1nnnnn1",
+
+    "Benzene": "c1ccccc1",
+    "Pyridine": "c1ccncc1",
+    "Pyrazine": "c1cnccn1",
+    "Pyrimidine": "c1cncnc1",
+    "Pyridazine": "c1cncnn1",
+    "Triazine": "c1ncncn1",
+    "Tetrazine": "c1nnnnc1",
+    "Pentazine": "c1nnnnn1",
+    "Hexazine": "c1nnnnnn1"
+}
